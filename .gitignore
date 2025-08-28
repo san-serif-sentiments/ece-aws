@@ -1,0 +1,16 @@
+# Python / env
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Generated / local only
+outputs/
+data/index/
+site/.cache/
+*.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store

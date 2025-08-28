@@ -1,0 +1,5 @@
+model: "mistral:7b"
+ctx_tokens: 4096
+embed_model: "bge-small-en-v1.5"
+top_k: 6
+site_docs_root: "site/docs"

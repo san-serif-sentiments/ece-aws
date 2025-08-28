@@ -1,0 +1,6 @@
+backlog:
+  - id: "hello-world"
+    title: "Hello ECE: Why docs-as-code beats ad-hoc docs"
+    audience: "general"
+    type: "content/blog"
+    priority: high

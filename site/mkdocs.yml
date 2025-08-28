@@ -1,0 +1,6 @@
+site_name: Enterprise Content Engine
+theme:
+  name: material
+nav:
+  - Home: docs/index.md
+  - Blog: docs/content/blog/
